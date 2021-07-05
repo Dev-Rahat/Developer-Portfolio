@@ -27,6 +27,6 @@ section{
     border-radius: 5px;
 }
 .banner{
-    background-image: url(images/.png);
+    background-image: url(images/top.png);
     background-repeat: no-repeat;
 }
