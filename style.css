@@ -31,16 +31,16 @@ h2 {
   border-radius: 5px;
 }
 .banner {
-  background-image: url('../Developer-Portfolio/Images/top.png');
+  background-image: url(../Developer-Portfolio/Images/top.png);
   background-repeat: no-repeat;
 }
 .dream-big {
-  background-image: url('../Developer-Portfolio/Images/dream-bg.png');
+  background-image: url(../Developer-Portfolio/Images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
 }
 .exprience-area {
-  background-image: url('../Developer-Portfolio/Images/exp-bg.png');
+  background-image: url(../Developer-Portfolio/Images/exp-bg.png);
   background-repeat: no-repeat;
   background-image: float;
   background-position: left;
